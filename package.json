@@ -1,7 +1,7 @@
 {
   "name": "nuxt-starter",
   "version": "0.0.1",
-  "description": "NuxtJS starter for website",
+  "description": "NuxtJS + ExpressJS - Simple for website Vue SSR",
   "main": "src/server/index.js",
   "license": "MIT",
   "scripts": {
