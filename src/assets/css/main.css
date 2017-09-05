@@ -1,0 +1,25 @@
+html, body, #__nuxt
+{
+  background-color: #fff;
+  color: #000;
+  letter-spacing: 0.5px;
+  font-family: "Source Sans Pro", Arial, sans-serif;
+  height: 100%;
+  margin: 0;
+}
+
+.flex-grow {
+  flex: 1;
+}
+
+footer
+{
+  padding: 20px;
+  text-align: center;
+  border-top: 1px solid #ddd;
+}
+
+a, a:hover, a:focus, a:visited
+{
+  color: #000;
+}
