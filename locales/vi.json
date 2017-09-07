@@ -1,0 +1,22 @@
+{
+	"vi": {
+		"lang": "Ngôn ngữ",
+		"en": "English",
+		"vi": "Tiếng Việt",
+		"Home": "Trang chủ",
+		"AdminCP": "Quản lý",
+		"account": {
+			"login": "Đăng nhập",
+			"register": "Đăng ký",
+			"email": "Email",
+			"username": "Tên tài khoản",
+			"password": "Mật khẩu",
+			"usernameOrEmail": "Tên tài khoản hoặc Email",
+			"enterEmail": "Vui lòng nhập địa chỉ email...",
+			"enterUsername": "Vui lòng nhập tên tài khoản...",
+			"enterUsernameOrEmail": "Vui lòng nhập tên tài khoản hoặc Email...",
+			"enterPassword": "Vui lòng nhập mật khẩu...",
+			"remember": "Ghi nhớ tài khoản"
+		}
+	}
+}

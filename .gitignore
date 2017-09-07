@@ -1,8 +1,6 @@
 # dependencies
 node_modules
 
-.idea
-
 # logs
 npm-debug.log
 
@@ -14,4 +12,8 @@ dist
 
 # Backpack build
 build
-data/
+
+*.sqlite
+*.log
+*.lock
+
