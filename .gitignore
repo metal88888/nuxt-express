@@ -16,4 +16,4 @@ build
 *.sqlite
 *.log
 *.lock
-
+.idea

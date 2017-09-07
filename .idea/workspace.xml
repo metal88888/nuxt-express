@@ -2,85 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be0ee558-0eb1-41ff-90b8-c469c25004c4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.babelrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/database.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nuxt-express/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nuxt-express/backpack.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nuxt-express/pages/_id.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nuxt-express/plugins/axios.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nuxt-express/store/getters.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Footer.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Navbar.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/admin/Sidebar_Posts.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/admin/Sidebar_System.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/admin/Sidebar_Users.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/admin.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/auth.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/default.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/layouts/error.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/middleware/needLogin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/middleware/needNotLogin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/pages/_id.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/pages/account/login.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/pages/admin/index.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/pages/index.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/plugins/axios.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/server/api/account/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/server/api/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/server/api/users/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/server/api/users/model.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/server/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/server/db.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/server/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/static/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/store/account/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/store/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yarn.lock" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/.editorconfig" afterPath="$PROJECT_DIR$/.editorconfig" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/.env" afterPath="$PROJECT_DIR$/.env" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/assets/img/logo.png" afterPath="$PROJECT_DIR$/assets/img/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/assets/styles/main.styl" afterPath="$PROJECT_DIR$/assets/styles/main.styl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/components/Footer.vue" afterPath="$PROJECT_DIR$/components/Footer.vue" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/components/Navbar.vue" afterPath="$PROJECT_DIR$/components/Navbar.vue" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/components/admin/Sidebar_Posts.vue" afterPath="$PROJECT_DIR$/components/admin/Sidebar_Posts.vue" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/components/admin/Sidebar_System.vue" afterPath="$PROJECT_DIR$/components/admin/Sidebar_System.vue" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/components/admin/Sidebar_Users.vue" afterPath="$PROJECT_DIR$/components/admin/Sidebar_Users.vue" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/lang/en.json" afterPath="$PROJECT_DIR$/locales/en.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/lang/index.js" afterPath="$PROJECT_DIR$/locales/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/lang/vi.json" afterPath="$PROJECT_DIR$/locales/vi.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/layouts/account.vue" afterPath="$PROJECT_DIR$/layouts/account.vue" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/layouts/admin.vue" afterPath="$PROJECT_DIR$/layouts/admin.vue" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/layouts/default.vue" afterPath="$PROJECT_DIR$/layouts/default.vue" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/layouts/error.vue" afterPath="$PROJECT_DIR$/layouts/error.vue" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/middleware/needLogin.js" afterPath="$PROJECT_DIR$/middleware/needLogin.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/middleware/needNotLogin.js" afterPath="$PROJECT_DIR$/middleware/needNotLogin.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/nuxt.config.js" afterPath="$PROJECT_DIR$/nuxt.config.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/pages/account/login.vue" afterPath="$PROJECT_DIR$/pages/account/login.vue" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/pages/admin/index.vue" afterPath="$PROJECT_DIR$/pages/admin/index.vue" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/pages/index.vue" afterPath="$PROJECT_DIR$/pages/index.vue" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/plugins/i18n.js" afterPath="$PROJECT_DIR$/plugins/i18n.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/server/api/index.js" afterPath="$PROJECT_DIR$/server/api/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/server/api/users/index.js" afterPath="$PROJECT_DIR$/server/api/users/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/server/api/users/model.js" afterPath="$PROJECT_DIR$/server/api/users/model.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/server/db.js" afterPath="$PROJECT_DIR$/server/db.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/server/index.js" afterPath="$PROJECT_DIR$/server/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/static/favicon.ico" afterPath="$PROJECT_DIR$/static/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/static/img/us.png" afterPath="$PROJECT_DIR$/static/img/us.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/static/img/vn.png" afterPath="$PROJECT_DIR$/static/img/vn.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/store/actions.js" afterPath="$PROJECT_DIR$/store/actions.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/store/index.js" afterPath="$PROJECT_DIR$/store/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/store/modules/account/actions.js" afterPath="$PROJECT_DIR$/store/modules/account/actions.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/store/modules/account/index.js" afterPath="$PROJECT_DIR$/store/modules/account/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/store/modules/account/mutations.js" afterPath="$PROJECT_DIR$/store/modules/account/mutations.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/store/modules/index.js" afterPath="$PROJECT_DIR$/store/modules/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/store/mutations.js" afterPath="$PROJECT_DIR$/store/mutations.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nuxt-express/store/state.js" afterPath="$PROJECT_DIR$/store/state.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backpack.config.js" afterPath="$PROJECT_DIR$/backpack.config.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -120,11 +43,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="i18n.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="i18n.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/plugins/i18n.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
               <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -171,7 +104,6 @@
         <option value="$PROJECT_DIR$/src/pages/account/login.vue" />
         <option value="$PROJECT_DIR$/src/store/account/index.js" />
         <option value="$PROJECT_DIR$/src/server/api/account/index.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/server/api/users/index.js" />
         <option value="$PROJECT_DIR$/store/mutations.js" />
@@ -188,6 +120,7 @@
         <option value="$PROJECT_DIR$/components/Navbar.vue" />
         <option value="$PROJECT_DIR$/store/actions.js" />
         <option value="$PROJECT_DIR$/nuxt.config.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -265,36 +198,6 @@
               <item name="nuxt-express" type="b2602c69:ProjectViewProjectNode" />
               <item name="nuxt-express" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="nuxt-express" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nuxt-express" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nuxt-express" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nuxt-express" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nuxt-express" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nuxt-express" type="462c0819:PsiDirectoryNode" />
-              <item name="locales" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nuxt-express" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nuxt-express" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nuxt-express" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nuxt-express" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nuxt-express" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nuxt-express" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -341,7 +244,7 @@
       <option name="presentableId" value="Default" />
       <updated>1504574089385</updated>
       <workItem from="1504574090538" duration="6074000" />
-      <workItem from="1504793000341" duration="6359000" />
+      <workItem from="1504793000341" duration="6507000" />
     </task>
     <task id="LOCAL-00001" summary="update description">
       <created>1504581047445</created>
@@ -350,11 +253,18 @@
       <option name="project" value="LOCAL" />
       <updated>1504581047445</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix source&#10;work on multi languages">
+      <created>1504803223255</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1504803223255</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12433000" />
+    <option name="totallyTimeSpent" value="12581000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -388,7 +298,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update description" />
-    <option name="LAST_COMMIT_MESSAGE" value="update description" />
+    <MESSAGE value="fix source&#10;work on multi languages" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix source&#10;work on multi languages" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -472,14 +383,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -660,6 +563,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding />
         </state>
       </provider>
