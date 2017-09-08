@@ -1,0 +1,14 @@
+{
+  "vi": {
+    "lang": "Ngôn ngữ",
+    "en": "English",
+    "vi": "Tiếng Việt",
+    "Home": "Trang chủ",
+    "AdminCP": "Quản lý",
+    "account": {
+      "login": "Đăng nhập",
+      "register": "Đăng ký"
+    }
+  }
+
+}

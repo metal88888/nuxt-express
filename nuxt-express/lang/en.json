@@ -1,0 +1,14 @@
+{
+  "en": {
+    "lang": "Language",
+    "en": "English",
+    "vi": "Tiếng Việt",
+    "Home": "Home",
+    "AdminCP": "Admin CP",
+    "account": {
+      "login": "Login",
+      "register": "Register"
+    }
+  }
+
+}

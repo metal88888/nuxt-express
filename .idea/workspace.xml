@@ -2,46 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be0ee558-0eb1-41ff-90b8-c469c25004c4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/static/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.babelrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/nuxt-starter.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backpack.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nuxt.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Footer.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Navbar.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/admin/Sidebar_Posts.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/admin/Sidebar_System.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/admin/Sidebar_Users.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/admin.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/auth.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/default.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layouts/error.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/middleware/needLogin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/middleware/needNotLogin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/_id.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/account/login.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/admin/index.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/index.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/plugins/axios.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/server/api/account/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/server/api/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/server/api/users/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/server/api/users/model.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/server/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/server/db.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/server/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/account/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yarn.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,18 +21,7 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,7 +29,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/backpack.config.js" />
         <option value="$PROJECT_DIR$/src/server/db.js" />
         <option value="$PROJECT_DIR$/src/plugins/axios.js" />
@@ -93,6 +42,7 @@
         <option value="$PROJECT_DIR$/src/store/account/index.js" />
         <option value="$PROJECT_DIR$/src/server/api/account/index.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -212,16 +162,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1504574089385</updated>
-      <workItem from="1504574090538" duration="5696000" />
+      <workItem from="1504574090538" duration="6074000" />
     </task>
+    <task id="LOCAL-00001" summary="update description">
+      <created>1504581047445</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1504581047445</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5696000" />
+    <option name="totallyTimeSpent" value="6074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="2578" height="1408" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -229,7 +186,7 @@
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -248,6 +205,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update description" />
+    <option name="LAST_COMMIT_MESSAGE" value="update description" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -274,14 +235,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -385,10 +338,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        <state relative-caret-position="351">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding />
         </state>
       </provider>
