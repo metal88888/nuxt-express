@@ -8,14 +8,24 @@
 		"account": {
 			"login": "Đăng nhập",
 			"register": "Đăng ký",
+
 			"email": "Email",
-			"username": "Tên tài khoản",
-			"password": "Mật khẩu",
-			"usernameOrEmail": "Tên tài khoản hoặc Email",
+			"emailRequired": "Bạn chưa nhập email !",
 			"enterEmail": "Vui lòng nhập địa chỉ email...",
+
+			"username": "Tên tài khoản",
+			"usernameRequired": "Bạn chưa nhập tên tài khoản !",
 			"enterUsername": "Vui lòng nhập tên tài khoản...",
-			"enterUsernameOrEmail": "Vui lòng nhập tên tài khoản hoặc Email...",
+
+			"password": "Mật khẩu",
+			"passwordNotMatched": "Mật khẩu & xác nhận không trùng khớp !",
+			"passwordConfirm": "Xác nhận mật khẩu",
 			"enterPassword": "Vui lòng nhập mật khẩu...",
+			"enterPasswordConfirm": "Vui lòng xác nhận mật khẩu...",
+
+			"usernameOrEmail": "Tên tài khoản hoặc Email",
+			"enterUsernameOrEmail": "Vui lòng nhập tên tài khoản hoặc Email...",
+
 			"remember": "Ghi nhớ tài khoản"
 		}
 	}

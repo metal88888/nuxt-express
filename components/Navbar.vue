@@ -22,10 +22,13 @@
                         </b-nav-item>
                     </b-nav>
 
-                    <b-nav is-nav-bar>
-                        <b-nav-item :to="{name: 'account-login'}" v-if="!user">
+                    <b-nav is-nav-bar v-if="!user">
+                        <b-nav-item :to="{ name: 'account-login' }" >
                             <i class="fa fa-user"></i> {{ $t("account.login") }}
                         </b-nav-item>
+						<b-nav-item :to="{ name: 'account-register' }">
+							<i class="fa fa-user"></i> {{ $t("account.register") }}
+						</b-nav-item>
                     </b-nav>
 
                     <b-nav-item-dropdown :text="username" right v-if="user">
@@ -63,9 +66,7 @@ export default {
 			return this.$store.state.info.siteName;
 		},
 		locale() {
-			const locale = this.$store.state.locale;
-			console.log(locale);
-			return locale;
+			return this.$store.state.locale;
 		}
 	},
 

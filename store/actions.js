@@ -1,4 +1,4 @@
-import Cookie from 'js-cookie';
+import ls from 'local-storage';
 
 export const nuxtServerInit = ({ commit }, { req }) => {
 
@@ -14,6 +14,6 @@ export const nuxtServerInit = ({ commit }, { req }) => {
 
 export function setLocale ({ commit }, locale) {
 	this.app.i18n.locale = locale;
-	Cookie.set('locale', locale);
+	ls.set('locale', locale);
 	commit('setLocale', locale);
 };

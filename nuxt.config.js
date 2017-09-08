@@ -6,7 +6,7 @@ module.exports = {
   },
   head: {
     title: 'starter',
-  	titleTemplate: '%s - Vue.VN',
+  	titleTemplate: process.env.SITE_NAME ? `%s - ${process.env.SITE_NAME}` : process.env.SITE_NAME ,
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },

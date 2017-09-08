@@ -38,4 +38,37 @@ router.post('/logout', (req, res) => {
 	return res.json({ ok: true });
 });
 
+
+router.post('/register', async (req, res) => {
+	const { username, email, password, confirm  } = req.body;
+
+	if (!username || !email)
+		return res.status(401).json({ message: 'Thông tin đăng ký không hợp lệ !' });
+
+	if (password !== confirm)
+		return res.status(401).json({ message: 'Mật khẩu & xác nhận không chính xác !' });
+
+	const count = await User.count({
+		where: {
+			$or: [
+				{ username: username  },
+				{ email: email  },
+			]
+		}
+	});
+
+	if (count > 0)
+		return res.status(409).json({ message: 'Mật khẩu & xác nhận không chính xác !' });
+
+	const user = await User.create({
+		username,
+		email,
+		password,
+	});
+
+	req.session.info.user = user;
+
+	return res.json(user);
+});
+
 export default router;

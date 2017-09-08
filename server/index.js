@@ -1,3 +1,4 @@
+require('dotenv').config();
 import express from 'express';
 import { Nuxt, Builder } from 'nuxt';
 import bodyParser from 'body-parser';
@@ -37,11 +38,9 @@ if (config.dev)
 
 const startApp = async () => {
 
-    const user = await User.find();
     session.Session.prototype.info = {
         siteName: 'My Awesome Site',
         siteDescription: 'My Description on the site',
-        user: user,
     };
 
     app.use(nuxt.render);

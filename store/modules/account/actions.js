@@ -20,3 +20,19 @@ export const logout = async function ({ commit }) {
     commit('setUser', null);
     router.replace({ name: 'index' });
 };
+
+
+export const register = async function ({ commit  }, { username, email, password, confirm }) {
+	const router = this.app.router;
+
+	try {
+		const res = await this.$axios.$post('/register', { username, email, password, confirm });
+
+		console.log('res data: ', res);
+		commit('setUser', res);
+		router.replace({ name: 'index' });
+	} catch (e) {
+		throw e;
+	}
+
+};

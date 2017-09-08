@@ -8,14 +8,25 @@
 		"account": {
 			"login": "Login",
 			"register": "Register",
+
 			"email": "Email",
-			"username": "Username",
-			"password": "Password",
-			"usernameOrEmail": "Username or Email",
+			"emailRequired": "Email is required !",
 			"enterEmail": "Please enter your email...",
+
+			"username": "Username",
+			"usernameRequired": "Username is required !",
 			"enterUsername": "Please enter username...",
-			"enterUsernameOrEmail": "Please enter username or email...",
+
+			"password": "Password",
+			"passwordNotMatched": "Password and Confirmation are not matched !",
 			"enterPassword": "Please enter password...",
+			"passwordConfirm": "Confirm password",
+			"enterPasswordConfirm": "Enter password confirmation...",
+
+			"usernameOrEmail": "Username or Email",
+			"enterUsernameOrEmail": "Please enter username or email...",
+
+
 			"remember": "Remember me"
 		}
 	}
