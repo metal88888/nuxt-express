@@ -1,7 +1,7 @@
 <template>
 	<b-row align-h="center">
 
-		<b-col xs="8" sm="8" md="6" lg="4" style="margin-top: 80px;">
+		<b-col xs="8" sm="8" md="6" lg="4" class="mt-4">
 			<b-form @submit.prevent="register">
 
 				<b-form-group
